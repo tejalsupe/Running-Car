@@ -1,0 +1,36 @@
+#main{
+    background-image: url('Images/side.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    width: auto;
+    height: 488px;
+    align-content: center;
+}
+#road{
+    background-image: url('Images/road.jpg');
+    background-repeat: repeat-x;
+    
+
+}
+#img{
+    height: 150px;
+}
+#dbtn{
+    display: inline-block;
+    margin-top: 200px;
+    margin-left: 540px;
+}
+.btn{
+    background-color:transparent;
+    height: 50px;
+    width: 180px;
+    font-size: 18px;
+    border-radius: 5%;
+    border: 2px solid green;
+    color: ivory;
+    
+}
+.btn:hover{
+    background-color: rgb(12, 207, 12);
+}
